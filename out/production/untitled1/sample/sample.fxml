@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Ellipse fill="#f5e0c0" layoutX="166.0" layoutY="200.0" radiusX="119.0" radiusY="175.0" stroke="BLACK" strokeType="INSIDE" />
+      <Button layoutX="384.0" layoutY="25.0" mnemonicParsing="false" onAction="#alights" prefHeight="38.0" prefWidth="82.0" text="Ленточки" />
+      <Button layoutX="384.0" layoutY="83.0" mnemonicParsing="false" onAction="#abeads" prefHeight="38.0" prefWidth="82.0" text="Бусины" />
+      <Button layoutX="384.0" layoutY="142.0" mnemonicParsing="false" onAction="#clean" prefHeight="38.0" prefWidth="82.0" text="Смыть" />
+      <Pane fx:id="pegg" layoutX="43.0" layoutY="27.0" prefHeight="350.0" prefWidth="247.0" />
+   </children>
+</AnchorPane>
