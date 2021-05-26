@@ -18,12 +18,13 @@
 # Реализация проекта
 Проект построен согласно диаграмме классов.
 
-![таск10диаграмма](https://user-images.githubusercontent.com/80450495/111908257-9622e300-8a69-11eb-8ae9-8de33d33c6e7.png)
+![image](https://user-images.githubusercontent.com/80450495/119715276-7b575b00-be6c-11eb-9171-8cf451f76907.png)
 
 Скриншот рабочего окна приложения:
+![image](https://user-images.githubusercontent.com/80450495/119715106-4cd98000-be6c-11eb-91c8-0553fae0b0bb.png)
+![image](https://user-images.githubusercontent.com/80450495/119715141-55ca5180-be6c-11eb-97e3-e90de0ecea40.png)
+![image](https://user-images.githubusercontent.com/80450495/119715168-5ebb2300-be6c-11eb-84bf-44a4c0e907b5.png)
+![image](https://user-images.githubusercontent.com/80450495/119715188-64b10400-be6c-11eb-8f34-cf2ef8929afe.png)
+![image](https://user-images.githubusercontent.com/80450495/119715224-6da1d580-be6c-11eb-8262-04a66cf8f40c.png)
+![image](https://user-images.githubusercontent.com/80450495/119715238-71cdf300-be6c-11eb-9577-e3f8f46c2b93.png)
 
-![такс 10](https://user-images.githubusercontent.com/80450495/111908145-27458a00-8a69-11eb-8225-7030a494b89d.png)
-
-После нажатия кнопк стереть:
-
-![такс 10](https://user-images.githubusercontent.com/80450495/111908191-5d830980-8a69-11eb-9f7b-846e11c1cb6a.png)
